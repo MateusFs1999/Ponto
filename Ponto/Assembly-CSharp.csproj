@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\FollowingBehaviour.cs" />
     <Compile Include="Assets\IdleBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Dash.cs" />
     <Compile Include="Assets\Scripts\LookMouse.cs" />
     <Compile Include="Assets\Scripts\Patrol.cs" />
     <Compile Include="Assets\Scripts\PontoBehaviourScript.cs" />
